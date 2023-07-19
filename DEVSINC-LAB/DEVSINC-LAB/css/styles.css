@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+    margin: 10;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+nav {
+    float: right;
+    background-color: white(255, 255, 255);
+    width: 15%;
+    height: 300px;
+    padding: 20px;
+}
+
+article {
+    background-color: white;
+    float: left;
+    width: 70%;
+    padding: 20px;
+}
+
+aside {
+    clear: both;
+}
+
+footer {
+    background: #222;
+    color: #eee;
+    text-align: center;
+    padding: 0.5em;
+    font-size: 0.9em;
+}
